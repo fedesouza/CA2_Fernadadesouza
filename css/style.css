@@ -1,0 +1,188 @@
+body {
+  background-color: #1b1940;
+  min-width: 1000px;
+  max-width: 1500px;
+  margin-left: 200px;
+  margin-right: 300px;
+  margin-top: 50px;
+  font-family: 'Nunito', sans-serif;
+}
+
+header {
+  float: left;
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 80px;
+  line-height: 100px;
+  margin-top: 31px;
+  margin-bottom: 10px;
+  color: #6D8EB1;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-size: 28px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+#cover {
+  float: left;
+  width: 800px;
+  height: 400px;
+}
+
+#about {
+
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10px 50px 50px 50px;
+
+}
+
+#olcats {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  color: white;
+  padding-left: 300px;
+  padding-right: 300px;
+
+}
+
+#contact {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+#acontact {
+  line-height: 1pt;
+
+
+}
+
+footer {
+
+  text-align: center;
+  padding: 2px;
+  background-color: #606787;
+  color: white;
+
+}
+
+.footp {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 50%;
+
+}
+
+#bannercat {
+  display: flex;
+  align-items: center;
+}
+
+#cat2 {
+  border-radius: 50%;
+  width: 50%;
+  padding-left: 30px;
+  padding-right: 100px;
+  margin-top: 20px;
+}
+
+#cat1 {
+  float: center;
+  padding-left: 150px;
+}
+
+.side {
+  line-height: 1pt;
+  text-align: center;
+
+}
+
+#darlogo {
+  padding-top: 50px;
+  padding-left: 40%;
+  padding-bottom: 20px;
+}
+
+#listhelp {
+  padding-left: 200px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+#video {
+  float: right;
+
+
+}
+
+.help {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 80px
+}
+
+#balon {
+  width: 40%;
+  margin-top: 20px;
+  padding-left: 100px;
+  border-radius: 50%;
+}
+
+#bannerh {
+  padding-left: 100px;
+  margin-left: 100px;
+}
+
+#hq {
+  width: 34%;
+  margin-top: 20px;
+  padding-left: 100px;
+  padding-right: 30px;
+  border-radius: 60%;
+
+}
+
+.media {
+  width: 40px;
+}
+
+#welcome-section {
+  margin-top: 8%;
+  margin-bottom: 8%;
+}
+
+#dogimg {
+  width: 30%;
+  margin-top: 20px;
+  padding-left: 100px;
+  border-radius: 50%;
+}
+
+#bannerdog {
+  margin-left: 600px;
+}
+
+#map {
+  margin-left: 400px;
+  margin-top: 50px;
+}
